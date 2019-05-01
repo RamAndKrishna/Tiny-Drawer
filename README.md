@@ -14,6 +14,3 @@ Undo & Redo
 Saving the drawing in to png.
 
 
-
-Flow :
-
