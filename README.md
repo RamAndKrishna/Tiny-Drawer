@@ -2,8 +2,7 @@
 It is simple application for painting.It can draw shapes with colors and saves the paining  in an image file.
 
 
-Features :			
-
+# Features :			
 
 Shapes - Rectangle,Circle,Line																																															
 
@@ -13,18 +12,17 @@ Undo & Redo
 
 Saving the drawing in to png.
 
+# How to execute/install it :
 
-How to execute/install it :
-
-Move your terminal/cmd  to folder which has this source code.Then 
+Move your terminal/cmd  to folder which has this source code.Then
 
 
 compilation :
 
-javac MyOval.java
-javac MyLine.java
-javac MyRectangle.java
-javac rama.java
+javac MyOval.java\
+javac MyLine.java\
+javac MyRectangle.java\
+javac rama.java\
 javac DrawFrame.java
 
 Execution :
